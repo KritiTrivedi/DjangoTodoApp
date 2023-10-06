@@ -3,11 +3,8 @@
 This is a simple Django Todo App that demonstrates basic API functionality, model serialization, field validation, different types of views, viewsets, and a one-to-many relationship.
 
 ## Installation
-Clone the repository:
+Clone the repository: https://github.com/KritiTrivedi/DjangoTodoApp.git
 
-## bash
-Copy code
-git clone https://github.com/yourusername/DjangoTodoApp.git
 Navigate to the project directory:
 
 cd DjangoTodoApp
